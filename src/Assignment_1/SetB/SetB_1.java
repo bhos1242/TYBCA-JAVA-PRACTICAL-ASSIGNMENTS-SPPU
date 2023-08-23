@@ -4,7 +4,7 @@
 //write methods isNegative,isPositive,isOdd,isEven.
 //Use command line argument to pass a value to the object and perform the above tests
 
-package Assignment_1;
+package Assignment_1.SetB;
 
 class MyNumber{
     private int number;

@@ -1,4 +1,4 @@
-package Assignment_1;
+package Assignment_1.SetA;
 //Java program to print the sum of elements of the array Also display array elements in ascending order
 
 

@@ -2,7 +2,7 @@
 //Wrtie a java program to create class as MyDate with dd,mm,yy as data members. Write default and parameterized constructor.
 //Display the date in dd-mm-yy format(Use this keyword)
 
-package Assignment_1;
+package Assignment_1.SetA;
 
 class MyDate{
     int dd,mm,yy;

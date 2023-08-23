@@ -1,4 +1,4 @@
-package Assignment_1;
+package Assignment_1.SetA;
 
 public class SetA_2 {
     public static void main(String[] args) {
