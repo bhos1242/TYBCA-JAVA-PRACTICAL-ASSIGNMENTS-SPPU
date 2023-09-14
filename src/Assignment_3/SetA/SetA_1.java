@@ -1,4 +1,4 @@
-package Assignment_3.SetA_1;
+package Assignment_3.SetA;
 
 import java.util.*;
 
