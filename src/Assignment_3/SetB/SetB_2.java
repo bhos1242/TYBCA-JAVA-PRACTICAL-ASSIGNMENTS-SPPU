@@ -1,5 +1,7 @@
 package Assignment_3.SetB;
-
+//2. Write a java program to accept Doctor Name from the user and check whether it is valid
+//        or not. (It should not contain digits and special symbol) If it is not valid then throw user
+//        defined Exception - Name is Invalid -- otherwise display it.
 import java.util.Scanner;
 
 class InvalidNameException extends Exception {
