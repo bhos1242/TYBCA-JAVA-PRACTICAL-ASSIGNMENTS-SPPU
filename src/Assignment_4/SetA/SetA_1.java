@@ -8,7 +8,7 @@ public class SetA_1 {
         JFrame frame = new JFrame("Login Form");
         frame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
         frame.setSize(300, 120);
-        frame.setLayout(new FlowLayout()); // Using FlowLayout as the layout manager
+        frame.setLayout(new FlowLayout());
 
         // Username Label and TextField
         JLabel usernameLabel = new JLabel("Username:");
